@@ -25,7 +25,7 @@ The dataset contains retail sales data including:
 - Sales channels
 - State-wise sales
   
-  ![Sabha_store_dataset](https://github.com/DIBYASEN/Excel_Sabha_annual_store_analysis/blob/main/Sabha%20Store%20Data%20Analysis.xlsx)
+  [Sabha_store_dataset](https://github.com/DIBYASEN/Excel_Sabha_annual_store_analysis/blob/main/Sabha%20Store%20Data%20Analysis.xlsx)
 
 
 ---
