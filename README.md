@@ -65,4 +65,3 @@ The dataset contains retail sales data including:
 
 ---
 
-## 📁 Repository Structure
