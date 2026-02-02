@@ -24,10 +24,14 @@ The dataset contains retail sales data including:
 - Order status
 - Sales channels
 - State-wise sales
+  ![Sabha_store_dataset](https://github.com/DIBYASEN/Excel_Sabha_annual_store_analysis/blob/main/Sabha%20Store%20Data%20Analysis.xlsx)
+
 
 ---
 
 ## 📊 Dashboard Features
+![Sabha_store_dashboard](https://github.com/DIBYASEN/Excel_Sabha_annual_store_analysis/blob/main/sabha_store_dashboard.png)
+
 - Interactive slicers for:
   - Month
   - Product Category
